@@ -1,0 +1,50 @@
+html {
+    height: 100%;
+}
+        
+body {
+    height: 100%;
+    margin: 0px;
+    font-family: Helvetica, Arial;
+}
+        
+.gm-style .gm-style-iw {
+    background-color: #333333;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    font-family: gothambook;
+    font-size: 13px;
+    top: 25px !important;
+    padding-top: 4px;
+}
+
+td {
+    font-family: garamond;
+    color: purple;
+}
+
+a {
+    color: purple;
+}
+        
+.gm-style div div div div div div div div {
+    background-color: #333333 !important;
+}
+
+.navbar-inverse {
+    font-family: arial;
+    border-radius: 0px;
+    margin-bottom: 0!important;
+}
+
+#navbarSearchForm input[type=text] {
+    width:400px !important;
+}
+
+.page-header {
+    font-weight:bold;
+    font-family: gothambook;
+    font-size: 20px;
+    text-align: center;
+}
