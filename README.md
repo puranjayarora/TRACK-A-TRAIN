@@ -1,4 +1,4 @@
-# Track a Train
+# TRACK A TRAIN
 It is a website for tracking trains running in Punjab region of the Indian Railways. The data is fetched from IRCTC's website and saved into a local SQLite database. The complete front end is in Bootstrap and the back end uses both Javascript and Python. It uses Google Maps API as its basic component and runs on Django framework. A few modifications have been made to the original Google Maps in order to provide a warm look and feel to the users.
 
 ## Details of the front end
