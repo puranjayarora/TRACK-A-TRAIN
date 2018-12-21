@@ -11,7 +11,7 @@ The following technologies need to be preinstalled:
 
 ## Installing 
 The user should download the entire repository and then start the local server using the following command: 
-python manage.py runserver
+"python manage.py runserver".
 The user can then view the website in their browser on localhost 
 
 ## Developers
